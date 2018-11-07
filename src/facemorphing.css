@@ -1,0 +1,17 @@
+.marker{
+	-fx-background-color: #79a2e5;
+	-fx-background-radius: 15;
+	-fx-text-fill: white;
+	-fx-font-size: 10;
+	-fx-pref-width: 12;
+	-fx-pref-height: 10;
+	-fx-text-alignment: center;
+	-fx-alignment: center;
+}
+
+.morph-image{
+	-fx-border-width: 1;
+	-fx-border-color: black;
+	-fx-border-style: dashed;
+}
+
